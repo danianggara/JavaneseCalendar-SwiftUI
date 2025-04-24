@@ -2,7 +2,7 @@
 
 A simple and beautiful SwiftUI app that displays the traditional **Javanese calendar** — including **Weton (Pasaran)** days, **Neptu values**, **Javanese month names**, and supports both **date selection via calendar view** and **localized Indonesian formatting**.
 
-![App Screenshot](JavaneseCalendar/Screenshots/calender_main.png)
+<img src="JavaneseCalendar/Screenshots/calender_main.png" alt="Main Calendar" width="300"/>
 
 ---
 
